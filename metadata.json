@@ -1,0 +1,5 @@
+{
+  "name": "Elio AI",
+  "description": "Elio AI powered by Gemini 2.5 Flash. A helpful assistant for Python coding and general queries.",
+  "requestFramePermissions": []
+}
